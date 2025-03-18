@@ -6,10 +6,10 @@ Admin : Amir | Mystic
 
 Admin Github : NaseR | Alone
 
+:red_circle: لینک دانلود برای تمامی سیستم عامل ها   :red_circle:
 
 
-## 📥 :red_circle: لینک دانلود برای تمامی سیستم عامل ها   :red_circle:
-
+## 📥 Download 
 
 <table>
     <thead align=left>
