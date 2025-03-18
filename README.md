@@ -40,7 +40,7 @@
         <tr>
             <td>Linux</td>
             <td>
-                <a href="https://snapcraft.io/surfshark"><img src="https://img.shields.io/badge/SurfShark-SnappCraft-0000CD.svg?logo=linux"> </a><br>                
+                <a href="https://snapcraft.io/surfshark"><img src="https://img.shields.io/badge/SurfShark-SnapCraft-0000CD.svg?logo=linux"> </a><br>                
             </td>
         </tr>
     </tbody>
