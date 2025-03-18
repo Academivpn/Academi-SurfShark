@@ -1,3 +1,7 @@
+![IMG_20250318_190318_628](https://github.com/user-attachments/assets/f193f933-ee9f-4c0b-b0ad-c93afd949cd5)
+
+
+
 [Telegram Channel](https://t.me/Academi_vpn)
 
 Owner: Puriya @Puriya73
@@ -5,6 +9,9 @@ Owner: Puriya @Puriya73
 Admin : Amir | Mystic
 
 Admin Github : NaseR | Alone
+
+![IMG_20250318_190316_132](https://github.com/user-attachments/assets/99261f52-eba2-4ef0-8bfe-768244c98cb5)
+
 
 :red_circle: لینک دانلود برای تمامی سیستم عامل ها   :red_circle:
 
