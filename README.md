@@ -1,8 +1,15 @@
-# Academi-SurfShark
+[Telegram Channel](https://t.me/Academi_vpn)
+
+Owner: Puriya @Puriya73
+
+Admin : Amir | Mystic
+
+Admin Github : NaseR | Alone
 
 
 
-## 📥 Download 
+## 📥 :red_circle: لینک دانلود برای تمامی سیستم عامل ها   :red_circle:
+
 
 <table>
     <thead align=left>
